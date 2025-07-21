@@ -1,0 +1,23 @@
+.container {
+    margin-left: 40px;
+}
+
+.garis-atas {
+    margin-top: 30px;
+    margin-right: 50%;
+}
+
+.posisi {
+    color: lightgreen;
+    font-size: 20px;
+}
+
+.nama {
+    margin-bottom: 0px;
+}
+
+.informasi-tempat p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 16px;
+}
