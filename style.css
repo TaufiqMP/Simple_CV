@@ -9,7 +9,15 @@
 
 .subjudul {
     color: lightgreen;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.subjudul-2 {
+    color: lightblue;
     font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
 }
 
 .nama {
@@ -20,4 +28,22 @@
     margin-bottom: 0px;
     margin-top: 0px;
     font-size: 16px;
+}
+
+.deskripsi {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+.across-the-internet a:hover {
+    color: lightgreen;
+}
+
+.across-the-internet a:visited {
+    color: green;
+}
+
+.across-the-internet a:active {
+    opacity: 0.9;
 }
