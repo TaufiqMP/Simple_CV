@@ -8,3 +8,6 @@ Simply create a section per information like, first section reserved for your na
 might be better for SEO
 Create the layout, horizontal line and such first to help u code more efficicently
 Adjust the style as u want
+
+This project is from
+https://roadmap.sh/projects/single-page-cv
